@@ -1,5 +1,5 @@
 # **Hi there! I'm Chris DePastene**
-I am a junior web developer based out of Portland, OR
+###I am a junior web developer based out of Portland, OR
 
 - 🌱 I’m currently learning **web and mobile development at Epicodus**
 
