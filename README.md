@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Chris DePastene</h1>
-<h3 align="center">I am a junior web developer based out of Portland, OR</h3>
+<h1 align="left">Hi there! I'm Chris DePastene</h1>
+<h3 align="left">I am a junior web developer based out of Portland, OR</h3>
 
 - 🌱 I’m currently learning **web and mobile development at Epicodus**
 
