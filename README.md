@@ -1,7 +1,7 @@
 <h1 align="left">Hi there! I'm Chris DePastene</h1>
-<h3 align="left">I am a junior web developer based out of Portland, OR</h3>
+<h3 align="left">Junior web developer based out of Portland, OR</h3>
 
-- 🌱 I’m currently learning **web and mobile development at Epicodus**
+- 🌱 Currently learning **web and mobile development at Epicodus**
 
 ## **Coding skills:**
 
